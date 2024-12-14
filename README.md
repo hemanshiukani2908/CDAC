@@ -1,2 +1,1 @@
-# Centre for Development of Advanced Computing (C-DAC)
-##  During PG-DAI Course 
+# Centre for Development of Advanced Computing (C-DAC), PG-DAI Course 
