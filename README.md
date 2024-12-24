@@ -7,3 +7,9 @@ NLP (Natural Language Processing)
 ![NLTK](https://img.shields.io/badge/NLTK-v3.8.1-yellowgreen.svg)
 ![Transformers](https://img.shields.io/badge/Transformers-v4.33.2-orange.svg)
 ![TextBlob](https://img.shields.io/badge/TextBlob-v0.16.0-lightgrey.svg)
+
+Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-v4.8.0-blue.svg)
+![TorchVision](https://img.shields.io/badge/TorchVision-v0.15.0-orange.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.14.0-red.svg)
+![YOLO](https://img.shields.io/badge/YOLO-v8.0.33-darkgreen.svg)
